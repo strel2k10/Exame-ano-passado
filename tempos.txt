@@ -1,0 +1,7 @@
+2017-12-28;S.Silvestre Porto;00:59:07;Corrida 10K
+2018-12-29;S.Silvestre Porto;00:55:35;Corrida 10K
+2019-12-27;S.Silvestre Porto;00:54:29;Corrida 10K
+2018-03-19;Corrida Dia do Pai;00:58:25;Corrida 10K
+2019-03-19;Corrida Dia do Pai;00:57:49;Corrida 10K
+2019-04-25;Corrida da APLD;00:25:32;Corrida 5K
+2019-10-15;Corrida da APLD;00:24:48;Corrida 5K
